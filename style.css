@@ -1,0 +1,31 @@
+.heading{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    line-height: 20px;
+    letter-spacing: 10px;
+    word-spacing: 20%;
+
+}
+.heading2{
+    color: aliceblue;
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+text-align: center;
+background-color: black;
+font-size: 60px;}
+.text-decoration{
+    text-decoration: underline;
+    text-align: right;
+    background-color: black;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+.new{
+    text-decoration: line-through;
+}
+body{
+background-color: antiquewhite;
+}
